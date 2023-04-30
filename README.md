@@ -39,7 +39,7 @@ D. Authors Info
 
 ### Licence
 
-[MIT License]
+[MIT License](https://github.com/ewambua/Code-Challenge-Bot-Battlr/blob/main/LICENCE)
 
 
 ### Authors Info
